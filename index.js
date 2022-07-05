@@ -4,9 +4,8 @@ const app = express();
 
 app.use(express.static(path.resolve(__dirname, './')));
 
-app.get('/', async (req, res) => {
-
-    return res.sendFile("./index.html")
+app.use((req,res,next)=>{
+    return res.sendFile(path.resolve(__dirname, 'index.html'));
 })
 
 app.listen(3000, () => {
