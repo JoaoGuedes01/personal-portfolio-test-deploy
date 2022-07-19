@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcc959ec.css",
-    "main.js": "/static/js/main.d62446e6.js",
-    "static/media/loadbalancer.png": "/static/media/loadbalancer.91fe5c00e4e3fdbc7974.png",
-    "static/media/rForecasting.png": "/static/media/rForecasting.ad80002614f6de5d9ef3.png",
-    "static/media/personal-website.png": "/static/media/personal-website.17ac2dd4fc5e866d2762.png",
-    "static/media/esrbpredictor.png": "/static/media/esrbpredictor.9d8b3afac1cc2722e07f.png",
+    "main.css": "/static/css/main.af73a962.css",
+    "main.js": "/static/js/main.fbb71c43.js",
     "index.html": "/index.html",
-    "main.bcc959ec.css.map": "/static/css/main.bcc959ec.css.map",
-    "main.d62446e6.js.map": "/static/js/main.d62446e6.js.map"
+    "main.af73a962.css.map": "/static/css/main.af73a962.css.map",
+    "main.fbb71c43.js.map": "/static/js/main.fbb71c43.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcc959ec.css",
-    "static/js/main.d62446e6.js"
+    "static/css/main.af73a962.css",
+    "static/js/main.fbb71c43.js"
   ]
 }
